@@ -45,9 +45,9 @@ http://ftspl26.com:80/Ale555/zqx16437/301.ts
 http://ftspl26.com:80/Ale555/zqx16437/510.ts
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS [FHD][H265]" tvg-logo="http://lgfp.one/VNA" group-title="Canais | Notícias",BAND NEWS [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30195.ts
-#EXTINF:-1 tvg-id="band.paulista.br" tvg-name="BAND SP [FHD]" tvg-logo="http://lgfp.one/VVH" group-title="Canais | Band",BAND SP [FHD]
+#EXTINF:-1 tvg-id="band.paulista.br" tvg-name="BAND SP [FHD]" tvg-logo="http://lgfp.one/VVH" group-title="Canais | Abertos",BAND SP [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/113585.ts
-#EXTINF:-1 tvg-id="band.paulista.br" tvg-name="BAND SP [HD]" tvg-logo="http://lgfp.one/VVG" group-title="Canais | Band",BAND SP [HD]
+#EXTINF:-1 tvg-id="band.paulista.br" tvg-name="BAND SP [HD]" tvg-logo="http://lgfp.one/VVG" group-title="Canais | Abertos",BAND SP [HD]
 http://ftspl26.com:80/Ale555/zqx16437/113584.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [FHD]" tvg-logo="http://lgfp.one/ANX" group-title="Canais | Esportes",BAND SPORTS [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/247.ts
@@ -256,8 +256,6 @@ http://ftspl26.com:80/Ale555/zqx16437/357677.ts
 http://ftspl26.com:80/Ale555/zqx16437/376882.ts
 #EXTINF:-1 tvg-id="food.network.hd.brasil.br" tvg-name="FOOD NETWORK [FHD]" tvg-logo="http://lgfp.one/AIS" group-title="Canais | Variedades",FOOD NETWORK [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="http://lgfp.one/PLG6" group-title="Canais | Formula 1",FORMULA 1 TV
-http://ftspl26.com:80/Ale555/zqx16437/319468.ts
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [FHD]" tvg-logo="http://lgfp.one/AOC" group-title="Canais | Esportes",FOX SPORTS 2 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/252.ts
 #EXTINF:-1 tvg-id="" tvg-name="FUTSAL 1 [HD]" tvg-logo="http://lgfp.one/RRS1" group-title="Canais | Jogos & Eventos",FUTSAL 1 [HD]
@@ -405,7 +403,7 @@ http://ftspl26.com:80/Ale555/zqx16437/30250.ts
 http://ftspl26.com:80/Ale555/zqx16437/356714.ts
 #EXTINF:-1 tvg-id="" tvg-name="IMPD [FHD]" tvg-logo="http://lgfp.one/ROV9" group-title="Canais | Religiosos",IMPD [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/358391.ts
-#EXTINF:-1 tvg-id="inter.tv.rj.br" tvg-name="INTER TV RJ [HD]" tvg-logo="http://lgfp.one/QEA8" group-title="Canais | Globo Sudeste",INTER TV RJ [HD]
+#EXTINF:-1 tvg-id="inter.tv.rj.br" tvg-name="INTER TV RJ [HD]" tvg-logo="http://lgfp.one/QEA8" group-title="Canais | Abertos",INTER TV RJ [HD]
 http://ftspl26.com:80/Ale555/zqx16437/333826.ts
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://lgfp.one/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30259.ts
@@ -425,8 +423,6 @@ http://ftspl26.com:80/Ale555/zqx16437/357907.ts
 http://ftspl26.com:80/Ale555/zqx16437/281.ts
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX [FHD][H265]" tvg-logo="http://lgfp.one/WHC" group-title="Canais | Filmes e Séries",MEGAPIX [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30218.ts
-#EXTINF:-1 tvg-id="" tvg-name="MLS [HD]" tvg-logo="http://lgfp.one/OOK3" group-title="Canais | MLS",MLS [HD]
-http://ftspl26.com:80/Ale555/zqx16437/289592.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Modo.viagem.HD.br" tvg-name="MODO VIAGEM [FHD]" tvg-logo="http://lgfp.one/VMT" group-title="Canais | Variedades",MODO VIAGEM [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/103.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Modo.viagem.HD.br" tvg-name="MODO VIAGEM [FHD][H265]" tvg-logo="http://lgfp.one/VMZ" group-title="Canais | Variedades",MODO VIAGEM [FHD][H265]
@@ -523,15 +519,15 @@ http://ftspl26.com:80/Ale555/zqx16437/357603.ts
 http://ftspl26.com:80/Ale555/zqx16437/511.ts
 #EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS [FHD][H265]" tvg-logo="http://lgfp.one/VNC" group-title="Canais | Notícias",RECORD NEWS [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30197.ts
-#EXTINF:-1 tvg-id="record.tv.campinas.br" tvg-name="Recordtv Campinas [HD]" tvg-logo="http://lgfp.one/ROD3" group-title="Canais | Record",Recordtv Campinas [HD]
+#EXTINF:-1 tvg-id="record.tv.campinas.br" tvg-name="Recordtv Campinas [HD]" tvg-logo="http://lgfp.one/ROD3" group-title="Canais | Abertos",Recordtv Campinas [HD]
 http://ftspl26.com:80/Ale555/zqx16437/357678.ts
-#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://lgfp.one/QAX6" group-title="Canais | Record",RECORDTV CIDADE [FHD]
+#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="RECORDTV CIDADE [FHD]" tvg-logo="http://lgfp.one/QAX6" group-title="Canais | Abertos",RECORDTV CIDADE [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/330667.ts
-#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="RECORDTV CIDADE [FHD][H265]" tvg-logo="http://lgfp.one/JYZ2" group-title="Canais | Record",RECORDTV CIDADE [FHD][H265]
+#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="RECORDTV CIDADE [FHD][H265]" tvg-logo="http://lgfp.one/JYZ2" group-title="Canais | Abertos",RECORDTV CIDADE [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/186197.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://lgfp.one/AGQ" group-title="Canais | Record",RECORDTV SP [FHD]
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://lgfp.one/AGQ" group-title="Canais | Abertos",RECORDTV SP [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/45.ts
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://lgfp.one/RHL1" group-title="Canais | Record",RECORDTV SP [FHD][H265]
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://lgfp.one/RHL1" group-title="Canais | Abertos",RECORDTV SP [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/407767.ts
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 [HD]" tvg-logo="http://lgfp.one/VRI" group-title="Canais | Religiosos",REDE 21 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/69081.ts
@@ -577,7 +573,7 @@ http://ftspl26.com:80/Ale555/zqx16437/127312.ts
 http://ftspl26.com:80/Ale555/zqx16437/330705.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT NEWS [FHD]" tvg-logo="http://lgfp.one/RCL8" group-title="Canais | Notícias",SBT NEWS [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/348108.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT [HD]" tvg-logo="http://lgfp.one/SGW6" group-title="Canais | SBT",SBT [HD]
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT [HD]" tvg-logo="http://lgfp.one/SGW6" group-title="Canais | Abertos",SBT [HD]
 http://ftspl26.com:80/Ale555/zqx16437/358387.ts
 #EXTINF:-1 tvg-id="sesctv.br" tvg-name="SescTV [HD]" tvg-logo="http://lgfp.one/ROW4" group-title="Canais | Abertos",SescTV [HD]
 http://ftspl26.com:80/Ale555/zqx16437/358397.ts
