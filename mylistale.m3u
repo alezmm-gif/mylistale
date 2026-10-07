@@ -5,7 +5,7 @@ http://ftspl26.com:80/Ale555/zqx16437/426073.ts
 http://ftspl26.com:80/Ale555/zqx16437/293.ts
 #EXTINF:-1 tvg-id="523311" tvg-name="A&E [FHD][H265]" tvg-logo="http://lgfp.one/WHI" group-title="Canais | Filmes e Séries",A&E [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30227.ts
-#EXTINF:-1 tvg-id="" tvg-name="Adesso tv [HD]" tvg-logo="" group-title="Canais | Religiosos",Adesso tv [HD]
+#EXTINF:-1 tvg-id="" tvg-name="Adesso tv [HD]" tvg-logo="" group-title="Canais | Abertos",Adesso tv [HD]
 http://ftspl26.com:80/Ale555/zqx16437/375001.ts
 #EXTINF:-1 tvg-id="" tvg-name="Adesso tv [HD]" tvg-logo="http://lgfp.one/SMS6" group-title="Canais | Abertos",Adesso tv [HD]
 http://ftspl26.com:80/Ale555/zqx16437/379589.ts
@@ -64,7 +64,7 @@ http://ftspl26.com:80/Ale555/zqx16437/12.ts
 http://ftspl26.com:80/Ale555/zqx16437/127310.ts
 #EXTINF:-1 tvg-id="bm.and.c.br" tvg-name="BM&C [FHD]" tvg-logo="http://lgfp.one/DPL6" group-title="Canais | Notícias",BM&C [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/234097.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Boa.Vontade.TV.br" tvg-name="BOA VONTADE [FHD]" tvg-logo="http://lgfp.one/QEA7" group-title="Canais | Religiosos",BOA VONTADE [FHD]
+#EXTINF:-1 tvg-id="São.Paulo/SP..Boa.Vontade.TV.br" tvg-name="BOA VONTADE [FHD]" tvg-logo="http://lgfp.one/QEA7" group-title="Canais | Abertos",BOA VONTADE [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/333825.ts
 #EXTINF:-1 tvg-id="rede.boas.novas.br" tvg-name="Boas Novas [HD]" tvg-logo="http://lgfp.one/UXW5" group-title="Canais | Abertos",Boas Novas [HD]
 http://ftspl26.com:80/Ale555/zqx16437/406948.ts
@@ -87,7 +87,7 @@ http://ftspl26.com:80/Ale555/zqx16437/234102.ts
 http://ftspl26.com:80/Ale555/zqx16437/234099.ts
 #EXTINF:-1 tvg-id="canal.uol.br" tvg-name="Canal UOL [HD]" tvg-logo="http://lgfp.one/PZO5" group-title="Canais | Notícias",Canal UOL [HD]
 http://ftspl26.com:80/Ale555/zqx16437/329746.ts
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova [FHD]" tvg-logo="http://lgfp.one/NRK4" group-title="Canais | Religiosos",Canção Nova [FHD]
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="Canção Nova [FHD]" tvg-logo="http://lgfp.one/NRK4" group-title="Canais | Abertos",Canção Nova [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/295990.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.HD.br" tvg-name="CARTOON NETWORK [FHD]" tvg-logo="http://lgfp.one/AJP" group-title="Canais | Infantis",CARTOON NETWORK [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/126.ts
@@ -294,61 +294,61 @@ http://ftspl26.com:80/Ale555/zqx16437/481.ts
 http://ftspl26.com:80/Ale555/zqx16437/464.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Family.br" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="http://lgfp.one/VSL" group-title="Canais | HBO",HBO FAMILY [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30235.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [FHD]" tvg-logo="http://lgfp.one/BJU8" group-title="Canais | HBO Max",HBO Max 1 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [FHD]" tvg-logo="http://lgfp.one/BJU8" group-title="Canais | HBO",HBO Max 1 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195782.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [HD]" tvg-logo="http://lgfp.one/OOF" group-title="Canais | HBO Max",HBO Max 1 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [HD]" tvg-logo="http://lgfp.one/OOF" group-title="Canais | HBO",HBO Max 1 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/92846.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [SD]" tvg-logo="http://lgfp.one/BHZ8" group-title="Canais | HBO Max",HBO Max 1 [SD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 [SD]" tvg-logo="http://lgfp.one/BHZ8" group-title="Canais | HBO",HBO Max 1 [SD]
 http://ftspl26.com:80/Ale555/zqx16437/195794.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 10 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 10 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 10 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 10 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356953.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 11 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 11 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 11 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 11 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356954.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 12 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 12 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 12 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 12 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356955.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 13 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 13 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 13 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 13 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356956.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 14 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 14 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 14 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 14 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356957.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 15 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 15 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 15 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 15 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356958.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 16 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 16 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 16 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 16 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356959.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 17 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 17 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 17 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 17 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356960.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 18 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 18 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 18 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 18 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356961.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 [FHD]" tvg-logo="http://lgfp.one/BJU9" group-title="Canais | HBO Max",HBO Max 2 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 [FHD]" tvg-logo="http://lgfp.one/BJU9" group-title="Canais | HBO",HBO Max 2 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195783.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 [HD]" tvg-logo="http://lgfp.one/BHZ3" group-title="Canais | HBO Max",HBO Max 2 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 [HD]" tvg-logo="http://lgfp.one/BHZ3" group-title="Canais | HBO",HBO Max 2 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/195789.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 [FHD]" tvg-logo="http://lgfp.one/BJV0" group-title="Canais | HBO Max",HBO Max 3 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 [FHD]" tvg-logo="http://lgfp.one/BJV0" group-title="Canais | HBO",HBO Max 3 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195784.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 [HD]" tvg-logo="http://lgfp.one/BHZ4" group-title="Canais | HBO Max",HBO Max 3 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 [HD]" tvg-logo="http://lgfp.one/BHZ4" group-title="Canais | HBO",HBO Max 3 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/195790.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 [FHD]" tvg-logo="http://lgfp.one/BJV1" group-title="Canais | HBO Max",HBO Max 4 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 [FHD]" tvg-logo="http://lgfp.one/BJV1" group-title="Canais | HBO",HBO Max 4 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195785.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 [HD]" tvg-logo="http://lgfp.one/BHZ5" group-title="Canais | HBO Max",HBO Max 4 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 [HD]" tvg-logo="http://lgfp.one/BHZ5" group-title="Canais | HBO",HBO Max 4 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/195791.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 [FHD]" tvg-logo="http://lgfp.one/BJV2" group-title="Canais | HBO Max",HBO Max 5 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 [FHD]" tvg-logo="http://lgfp.one/BJV2" group-title="Canais | HBO",HBO Max 5 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195786.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 [HD]" tvg-logo="http://lgfp.one/BHZ6" group-title="Canais | HBO Max",HBO Max 5 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 [HD]" tvg-logo="http://lgfp.one/BHZ6" group-title="Canais | HBO",HBO Max 5 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/195792.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 [FHD]" tvg-logo="http://lgfp.one/BJV3" group-title="Canais | HBO Max",HBO Max 6 [FHD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 [FHD]" tvg-logo="http://lgfp.one/BJV3" group-title="Canais | HBO",HBO Max 6 [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/195787.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 [HD]" tvg-logo="http://lgfp.one/BHZ7" group-title="Canais | HBO Max",HBO Max 6 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 [HD]" tvg-logo="http://lgfp.one/BHZ7" group-title="Canais | HBO",HBO Max 6 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/195793.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 7 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 7 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 7 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 7 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356950.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 7 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 7 [HD] [ALTER]
 http://ftspl26.com:80/Ale555/zqx16437/283803.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 8 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 8 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 8 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 8 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356951.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 8 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP0" group-title="Canais | HBO Max",HBO Max 8 [HD] [ALTER]
 http://ftspl26.com:80/Ale555/zqx16437/283804.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 9 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 9 [HD]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 9 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO",HBO Max 9 [HD]
 http://ftspl26.com:80/Ale555/zqx16437/356952.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max 9 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP2" group-title="Canais | HBO Max",HBO Max 9 [HD] [ALTER]
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 9 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP2" group-title="Canais | HBO",HBO Max 9 [HD] [ALTER]
 http://ftspl26.com:80/Ale555/zqx16437/283806.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..HBO.MUNDI.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="http://lgfp.one/AVH" group-title="Canais | HBO",HBO MUNDI [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/467.ts
@@ -399,10 +399,6 @@ http://ftspl26.com:80/Ale555/zqx16437/203.ts
 http://ftspl26.com:80/Ale555/zqx16437/174.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..The.History.Channel.br" tvg-name="HISTORY CHANNEL [FHD][H265]" tvg-logo="http://lgfp.one/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30250.ts
-#EXTINF:-1 tvg-id="" tvg-name="IMPD TV [HD]" tvg-logo="http://lgfp.one/RNB9" group-title="Canais | Religiosos",IMPD TV [HD]
-http://ftspl26.com:80/Ale555/zqx16437/356714.ts
-#EXTINF:-1 tvg-id="" tvg-name="IMPD [FHD]" tvg-logo="http://lgfp.one/ROV9" group-title="Canais | Religiosos",IMPD [FHD]
-http://ftspl26.com:80/Ale555/zqx16437/358391.ts
 #EXTINF:-1 tvg-id="inter.tv.rj.br" tvg-name="INTER TV RJ [HD]" tvg-logo="http://lgfp.one/QEA8" group-title="Canais | Abertos",INTER TV RJ [HD]
 http://ftspl26.com:80/Ale555/zqx16437/333826.ts
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://lgfp.one/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
@@ -435,7 +431,7 @@ http://ftspl26.com:80/Ale555/zqx16437/30173.ts
 http://ftspl26.com:80/Ale555/zqx16437/4.ts
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL [FHD][H265]" tvg-logo="http://lgfp.one/VAP" group-title="Canais | Art & Music",MUSIC BOX BRASIL [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/30176.ts
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO [FHD]" tvg-logo="http://lgfp.one/VQD" group-title="Canais | Religiosos",NOVO TEMPO [FHD]
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO [FHD]" tvg-logo="http://lgfp.one/VQD" group-title="Canais | Abertos",NOVO TEMPO [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/329734.ts
 #EXTINF:-1 tvg-id="523285" tvg-name="OFF [FHD]" tvg-logo="http://lgfp.one/AOD" group-title="Canais | Esportes",OFF [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/253.ts
@@ -529,16 +525,10 @@ http://ftspl26.com:80/Ale555/zqx16437/186197.ts
 http://ftspl26.com:80/Ale555/zqx16437/45.ts
 #EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://lgfp.one/RHL1" group-title="Canais | Abertos",RECORDTV SP [FHD][H265]
 http://ftspl26.com:80/Ale555/zqx16437/407767.ts
-#EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 [HD]" tvg-logo="http://lgfp.one/VRI" group-title="Canais | Religiosos",REDE 21 [HD]
-http://ftspl26.com:80/Ale555/zqx16437/69081.ts
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" tvg-name="Rede Brasil [HD]" tvg-logo="http://lgfp.one/NRM3" group-title="Canais | Abertos",Rede Brasil [HD]
 http://ftspl26.com:80/Ale555/zqx16437/300986.ts
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" tvg-name="REDE BRASIL [SD]" tvg-logo="http://lgfp.one/AIE" group-title="Canais | Abertos",REDE BRASIL [SD]
 http://ftspl26.com:80/Ale555/zqx16437/87.ts
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA [HD]" tvg-logo="http://lgfp.one/AYC" group-title="Canais | Religiosos",REDE VIDA [HD]
-http://ftspl26.com:80/Ale555/zqx16437/547.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.Vida.HD.br" tvg-name="REDE VIDA [SD]" tvg-logo="http://lgfp.one/AYF" group-title="Canais | Religiosos",REDE VIDA [SD]
-http://ftspl26.com:80/Ale555/zqx16437/551.ts
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV! [FHD]" tvg-logo="http://lgfp.one/AGS" group-title="Canais | Abertos",REDETV! [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music [SD]" tvg-logo="http://lgfp.one/ROV4" group-title="Canais | Art & Music",Retro Music [SD]
@@ -663,10 +653,6 @@ http://ftspl26.com:80/Ale555/zqx16437/329751.ts
 http://ftspl26.com:80/Ale555/zqx16437/47.ts
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA [HD]" tvg-logo="http://lgfp.one/AHI" group-title="Canais | Abertos",TV CULTURA [HD]
 http://ftspl26.com:80/Ale555/zqx16437/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV MAANAIM [HD]" tvg-logo="" group-title="Canais | Religiosos",TV MAANAIM [HD]
-http://ftspl26.com:80/Ale555/zqx16437/371452.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Maná BR [FHD]" tvg-logo="http://lgfp.one/VFC7" group-title="Canais | Religiosos",TV Maná BR [FHD]
-http://ftspl26.com:80/Ale555/zqx16437/360386.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Paraná Turismo [FHD]" tvg-logo="http://lgfp.one/RNL2" group-title="Canais | Variedades",TV Paraná Turismo [FHD]
 http://ftspl26.com:80/Ale555/zqx16437/357285.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV RA-TIM-BUM [FHD]" tvg-logo="http://lgfp.one/AJV" group-title="Canais | Infantis",TV RA-TIM-BUM [FHD]
